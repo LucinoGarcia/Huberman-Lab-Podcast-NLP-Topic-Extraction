@@ -1,7 +1,7 @@
 # In-Progress
 
 #### Huberman Lab Podcast NLP for Topic Extraction: Overview
-- 
+- Aim to develop a topic modeling system employing Natural Language Processing techniques to cluster transcripts sourced from the Huberman Lab Podcast.
 -  
 -  
 - 
