@@ -16,7 +16,7 @@
 
 
 #### Data Collection
-The transcripts for each of the episodes were scraped from [HubermanTranscripts.com](https://www.hubermantranscripts.com/) using Python's Selenium package [by this script](/WebScrape.py). 
+The transcripts for each of the episodes were scraped from [HubermanTranscripts.com](https://www.hubermantranscripts.com/) using Python's Selenium package [by this script](/WebScrape.py). Each of the transcripts was reformatted and saved onto individual .txt files.
 
 
 
