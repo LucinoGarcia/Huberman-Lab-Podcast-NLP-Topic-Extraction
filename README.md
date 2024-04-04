@@ -1,4 +1,6 @@
-# Huberman Lab Podcast NLP for Topic Extraction: Overview
+In-Progress
+
+#### Huberman Lab Podcast NLP for Topic Extraction: Overview
 - 
 -  
 -  
@@ -8,22 +10,22 @@
 
 
 
-# Resources 
+#### Resources 
 **Python Version:** 3.9.5 <br>
 
 
 
-# Data Collection
+#### Data Collection
 The transcripts for each of the episodes were scraped using Python's Selenium package [using this script](/WebScrape.py). 
 
 
 
-# EDA
+#### EDA
 
 
 
-# Model Building
+#### Model Building
 
 
 
-# Implications
+#### Implications
